@@ -1,5 +1,7 @@
 # ChatGPT "Rock paper scissors" JavaScript Game
 
+[![main](https://github.com/wlsf82/chatgpt-paper-rock-and-scissors-javascript-game/actions/workflows/ci.yml/badge.svg)](https://github.com/wlsf82/chatgpt-paper-rock-and-scissors-javascript-game/actions)
+
 JavaScript version of the game ['Rock paper scissors'](https://en.wikipedia.org/wiki/Rock_paper_scissors) created and tested by ChatGPT.
 
 ## Installation of the `devDependencies`
