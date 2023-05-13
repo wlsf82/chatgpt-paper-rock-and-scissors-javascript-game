@@ -4,15 +4,19 @@
 
 JavaScript version of the game ['Rock paper scissors'](https://en.wikipedia.org/wiki/Rock_paper_scissors) created and tested by ChatGPT.
 
-## Installation of the `devDependencies`
+## Playing the game
+
+Run `npm run play` to play the game.
+
+## Tests
+
+In order to run the tests, you first need to install the `devDependencies`
+
+### Installation of the `devDependencies`
 
 Run `npm install` to install the `devDependencies`.
 
-## Playing the game
-
-Run `npm run play` to play the game
-
-## Tests
+### Running the tests
 
 Run `npm test` to run the unit tests.
 
