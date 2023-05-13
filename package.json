@@ -4,8 +4,8 @@
   "description": "JavaScript version of the game 'Rock paper scissors' created and tested using ChatGPT.",
   "main": "index.js",
   "scripts": {
-    "play": "node game.js",
-    "test": "mocha *.test.js"
+    "play": "node src/game.js",
+    "test": "mocha tests/*.test.js"
   },
   "keywords": [
     "ChatGPT",

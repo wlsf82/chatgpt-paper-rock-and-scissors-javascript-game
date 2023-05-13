@@ -1,7 +1,7 @@
 const { assert } = require("chai")
 const { describe, it } = require("mocha")
 
-const { computerPlay, playRound } = require("./index")
+const { computerPlay, playRound } = require("../src/")
 
 describe("Game", () => {
   describe("computerPlay", () => {
