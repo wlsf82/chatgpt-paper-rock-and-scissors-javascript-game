@@ -1,3 +1,1 @@
-const { game } = require("./index")
-
-game()
+require("./").game()
