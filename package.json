@@ -1,0 +1,21 @@
+{
+  "name": "chatgpt-paper-rock-and-scissors-javascript-game",
+  "version": "1.0.0",
+  "description": "JavaScript version of the game 'Rock paper scissors' created and tested using ChatGPT.",
+  "main": "index.js",
+  "scripts": {
+    "play": "node game.js",
+    "test": "mocha *.test.js"
+  },
+  "keywords": [
+    "ChatGPT",
+    "rock-paper-and-scissors",
+    "JavaScript"
+  ],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
